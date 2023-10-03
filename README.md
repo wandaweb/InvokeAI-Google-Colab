@@ -4,7 +4,7 @@ Colab notebook for InvokeAI 3.x.x
 Colab notebook  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-zm3Rkca_ix5pLdybWgjfT0xKcz6S9Yx)
 
-Use guide: [https://www.pogs.cafe/invokeai-colab](https://www.pogs.cafe/invokeai-colab)
+How-to: [https://www.pogs.cafe/invokeai-colab](https://www.pogs.cafe/invokeai-colab)
 
 Works with the SDXL base model and refiner on a GPU runtime. 
 Other models can be added, as long as they are in diffusers format.
